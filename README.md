@@ -1,4 +1,5 @@
 # CalenderSample
 Swift Calender Sample
 
-<img width="250" src="https://user-images.githubusercontent.com/6063541/150828807-e2e66b66-e23e-4c3f-b0a7-465d76c31ea4.png">
+
+<img width="250" src="https://user-images.githubusercontent.com/6063541/150829026-ff1365a6-7cb5-42fe-8fd0-f9972de28b6e.png">
